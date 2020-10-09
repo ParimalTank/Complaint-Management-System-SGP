@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602238025 source:d:\sgp_projects\cms\main.cpp
+	<iostream>
+	<istream>
+	<string>
+	<iomanip>
+	<bits/stdc++.h>
+
